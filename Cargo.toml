@@ -51,7 +51,7 @@ version = "0.17"
 
 [workspace.dependencies.naga]
 git = "https://github.com/gfx-rs/naga"
-rev = "7a19f3af909202c7eafd36633b5584bfbb353ecb"
+rev = "5329aa2bd5e8b9df413dfb3a862bc2994021c5be"
 version = "0.13.0"
 
 [workspace.dependencies]
